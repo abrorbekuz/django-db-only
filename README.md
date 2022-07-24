@@ -1,6 +1,7 @@
 # <p align="center">django-db-only
 
 This is just wrapper package on top of django framework, which creates django project with only standalone modules included.
+  
 You can check releses in [Releases](https://github.com/abrorbekuz/django_db_only/releases)
 
 ## Howto
@@ -28,6 +29,4 @@ python manage.py migrate <app_name>
 python query_resolver.py
 ```
 
-## TODO
 
-Need to add django dependency check to setup.py
