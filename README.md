@@ -6,7 +6,7 @@ You can check releses in [Releases](https://github.com/abrorbekuz/django_db_only
 Our telegram channel [Telegram Channel](https://t.me/django_db_only)
 
 ## Howto
-**1.** install django-models-standalone: 
+**1.** install django-db-only: 
 
 `python setup.py install` or just type `pip install django-db-only`
 
