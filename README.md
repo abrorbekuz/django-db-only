@@ -8,7 +8,7 @@ Our community [Telegram Group](https://t.me/django_db_only)
 ## Howto
 **1.** install django-db-only: 
 
-`python setup.py install` or just type `pip install django-db-only`
+`python setup.py install` or just type<br> `pip install django-db-only`
 
 **2.** create standalone django models project:
 
