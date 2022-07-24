@@ -2,8 +2,8 @@
 
 This is just wrapper package on top of django framework, which creates django project with only standalone modules included.
   
-You can check releses in [Releases](https://github.com/abrorbekuz/django_db_only/releases)
-Our telegram channel [Telegram Channel](https://t.me/django_db_only)
+You can check releases in [Releases](https://github.com/abrorbekuz/django_db_only/releases)<br>
+Our community [Telegram Group](https://t.me/django_db_only)
 
 ## Howto
 **1.** install django-db-only: 
