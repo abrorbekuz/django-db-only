@@ -6,7 +6,7 @@ EXCLUDE_FROM_PACKAGES = [
 
 setup(
 	name='django_db_only',
-	version='0.1.0',
+	version='0.0.1',
 	description='Django models as standalone app.',
 	long_description='Django models as standalone app.',
 	author='Abror Qodirov',
