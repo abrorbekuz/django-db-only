@@ -1,0 +1,3 @@
+recursive-include django_db_only *
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
