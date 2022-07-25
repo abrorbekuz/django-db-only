@@ -1,0 +1,3 @@
+django-db-only
+django
+pytelegrambotapi
