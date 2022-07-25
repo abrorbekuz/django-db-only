@@ -2,3 +2,5 @@
 
 u can change it and migrate
 then freely use
+
+query_resolver is main thing here
