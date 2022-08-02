@@ -18,6 +18,9 @@ setup(
 	]},
 	url='http://github.com/abrorbekuz/django_db_only',
 	include_package_data=True,
+	install_requires=[
+        	'django',
+    	],
 	classifiers=[
 		"Programming Language :: Python",
 		"License :: OSI Approved :: BSD License",
